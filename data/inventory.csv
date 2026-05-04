@@ -1,0 +1,11 @@
+id,name,category,stock,buy_price,sell_price,unit,reorder_level,supplier
+1,Bolt M8,Hardware,500,2.5,5.0,pcs,100,FastenCo
+2,Valve 2in,Piping,80,120.0,195.0,pcs,20,PipePro Ltd
+3,Gasket Kit,Sealing,200,45.0,80.0,set,50,SealMaster
+4,Pump Motor 1HP,Electrical,12,8500.0,13000.0,pcs,5,ElectroDyne
+5,Hex Wrench Set,Tools,35,180.0,290.0,set,10,ToolZone
+6,PVC Pipe 1in,Piping,300,18.0,32.0,mtr,80,PipePro Ltd
+7,Circuit Breaker,Electrical,45,650.0,1050.0,pcs,15,ElectroDyne
+8,Safety Gloves L,Safety,120,55.0,95.0,pair,30,SafeGear
+9,Pressure Gauge,Instruments,60,380.0,620.0,pcs,10,InstruMark
+10,Lubricant 5L,Consumables,90,420.0,680.0,can,25,ChemBase
