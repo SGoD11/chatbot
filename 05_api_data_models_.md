@@ -1,6 +1,5 @@
 # Chapter 5: API Data Models
-
-Welcome to the final chapter of our chatbot tutorial! We've journeyed from the friendly face of our [User Interface (Frontend)](01_user_interface__frontend__.md) to the diligent [Inventory Data Manager](03_inventory_data_manager__.md), and into the smarts of the [AI Brain / LLM Interface](04_ai_brain___llm_interface__.md). Along the way, the [Web API Server](02_web_api_server_.md) has been our central "receptionist," directing traffic and bringing all these pieces together.
+We've learned from the friendly face of our [User Interface (Frontend)](01_user_interface__frontend__.md) to the diligent [Inventory Data Manager](03_inventory_data_manager__.md), and into the smarts of the [AI Brain / LLM Interface](04_ai_brain___llm_interface__.md). Along the way, the [Web API Server](02_web_api_server_.md) has been our central "receptionist," directing traffic and bringing all these pieces together.
 
 Now, imagine all these different parts are working in an orchestra. Each instrument plays its part, but they all need to read from the same sheet music to create a beautiful symphony. If the Frontend sends data in one format, and the AI expects it in another, there will be chaos!
 
