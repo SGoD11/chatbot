@@ -1,7 +1,7 @@
 
 # Chapter 4: AI Brain / LLM Interface
 
-Welcome back! In our previous chapter, [Inventory Data Manager](03_inventory_data_manager_.md), we saw how our chatbot's "librarian" gathers and prepares all the important product information. Now that we have the data ready, and the [Web API Server](02_web_api_server_.md) has received a question from the user, it's time for the real "thinking" to happen. This is where the **AI Brain / LLM Interface** comes in!
+### This is where the **AI Brain / LLM Interface** comes in!
 
 Imagine your chatbot is a foreign exchange student. The [User Interface (Frontend)](01_user_interface__frontend__.md) is where you, the user, speak your native language. The [Web API Server](02_web_api_server_.md) is like the interpreter who hears your question. The [Inventory Data Manager](03_inventory_data_manager_.md) is like a helpful textbook full of facts. But you need someone who can *understand* your question, *read* the textbook, and then *formulate a thoughtful answer*.
 
