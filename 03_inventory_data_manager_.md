@@ -1,8 +1,6 @@
 
 # Chapter 3: Inventory Data Manager
 
-Welcome back! In our previous chapter, [Web API Server](02_web_api_server_.md), we learned how our "receptionist" server receives questions from the user interface and prepares to send them to the right "departments." One of the most important "departments" it needs to talk to is the **Inventory Data Manager**.
-
 Imagine your chatbot is a smart employee in a warehouse. This employee needs to answer questions like "How many blue widgets do we have?" or "What's the profit margin on item X?". To do this, they need accurate, up-to-date information about all the products. That's exactly what the **Inventory Data Manager** does!
 
 ## What is the Inventory Data Manager? Why do we need it?
