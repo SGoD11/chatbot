@@ -1,8 +1,6 @@
 # Chapter 1: User Interface (Frontend)
 
-Welcome to your journey into building a chatbot! We're starting at the very beginning, with what you'll see and touch: the **User Interface**, often called the **Frontend**.
-
-Imagine you're chatting with a friend online. You see a chat window, you type your message, and your friend's reply pops up. That's exactly what the Frontend is for our chatbot! It's the "face" of our project, the part that you, the user, directly interact with.
+Imagine you're chatting with a friend online. You see a chat window, you type your message, and your friend's reply pops up. That's exactly what the **Frontend** is for our chatbot! It's the "face" of our project, the part that you, the user, directly interact with.
 
 ## What is the Frontend? Why do we need it?
 
