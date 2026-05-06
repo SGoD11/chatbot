@@ -1,7 +1,5 @@
 # Chapter 2: Web API Server
 
-Welcome back! In our last chapter, [User Interface (Frontend)](01_user_interface__frontend__.md), we saw how the "face" of our chatbot works. You type a question, click "Send," and your question zips off. But where does it go? It goes straight to our **Web API Server**!
-
 Imagine our chatbot application is a busy office building. The [User Interface (Frontend)](01_user_interface__frontend__.md) is like the visitor who walks in with a question. The **Web API Server** is the friendly receptionist at the front desk.
 
 ## What is the Web API Server? Why do we need it?
